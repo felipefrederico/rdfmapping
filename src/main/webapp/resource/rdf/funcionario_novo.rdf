@@ -1,0 +1,48 @@
+<?xml version='1.0'?><rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:xsd="http://www.w3.org/TR/xmlschema11-2/#"
+    xmlns:eg="http://localhost:8080/rdfmapping/rdf/funcionario_novo#"
+    xmlns:foaf="http://xmlns.com/foaf/spec/"
+    xmlns:dbp="http://dbpedia.org/resource/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+<foaf:Person rdf:about="http://localhost:8080/rdfmapping/rdf/funcionario_novo#FUNC228449">
+<dbp:Role>4893.69</dbp:Role>
+<foaf:name>TERCEIRO SARGENTO</foaf:name>
+</foaf:Person>
+<foaf:Person rdf:about="http://localhost:8080/rdfmapping/rdf/funcionario_novo#FUNC226857">
+<dbp:Role>3554.37</dbp:Role>
+<foaf:name>CABO</foaf:name>
+</foaf:Person>
+<foaf:Person rdf:about="http://localhost:8080/rdfmapping/rdf/funcionario_novo#FUNC215985">
+<dbp:Role>1867.49</dbp:Role>
+<foaf:name>PROFESSOR</foaf:name>
+</foaf:Person>
+<foaf:Person rdf:about="http://localhost:8080/rdfmapping/rdf/funcionario_novo#FUNC148665">
+<dbp:Role>2761.84</dbp:Role>
+<foaf:name>PROFESSOR</foaf:name>
+</foaf:Person>
+<foaf:Person rdf:about="http://localhost:8080/rdfmapping/rdf/funcionario_novo#FUNC219558">
+<dbp:Role>5220.83</dbp:Role>
+<foaf:name>AGENTE DE POLICIA</foaf:name>
+</foaf:Person>
+<foaf:Person rdf:about="http://localhost:8080/rdfmapping/rdf/funcionario_novo#FUNC224695">
+<dbp:Role>841.96</dbp:Role>
+<foaf:name>ATENDENTE DE ENFERMAGEM</foaf:name>
+</foaf:Person>
+<foaf:Person rdf:about="http://localhost:8080/rdfmapping/rdf/funcionario_novo#FUNC238777">
+<dbp:Role>1054.53</dbp:Role>
+<foaf:name>SOLDADO ALUNO</foaf:name>
+</foaf:Person>
+<foaf:Person rdf:about="http://localhost:8080/rdfmapping/rdf/funcionario_novo#FUNC227461">
+<dbp:Role>4171.76</dbp:Role>
+<foaf:name>CABO</foaf:name>
+</foaf:Person>
+<foaf:Person rdf:about="http://localhost:8080/rdfmapping/rdf/funcionario_novo#FUNC238254">
+<dbp:Role>3604.27</dbp:Role>
+<foaf:name>CABO</foaf:name>
+</foaf:Person>
+<foaf:Person rdf:about="http://localhost:8080/rdfmapping/rdf/funcionario_novo#FUNC214483">
+<dbp:Role>1792.33</dbp:Role>
+<foaf:name>VIGIA</foaf:name>
+</foaf:Person>
+</rdf:RDF>

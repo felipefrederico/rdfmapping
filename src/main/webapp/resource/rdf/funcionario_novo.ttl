@@ -1,0 +1,46 @@
+@prefix eg:    <http://localhost:8080/rdfmapping/rdf/funcionario_novo#> .
+@prefix dbp:   <http://dbpedia.org/resource/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd:   <http://www.w3.org/TR/xmlschema11-2/#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:  <http://xmlns.com/foaf/spec/> .
+
+eg:FUNC226857  a   foaf:Person ;
+        dbp:Role   "3554.37" ;
+        foaf:name  "CABO" .
+
+eg:FUNC227461  a   foaf:Person ;
+        dbp:Role   "4171.76" ;
+        foaf:name  "CABO" .
+
+eg:FUNC238254  a   foaf:Person ;
+        dbp:Role   "3604.27" ;
+        foaf:name  "CABO" .
+
+eg:FUNC224695  a   foaf:Person ;
+        dbp:Role   "841.96" ;
+        foaf:name  "ATENDENTE DE ENFERMAGEM" .
+
+eg:FUNC214483  a   foaf:Person ;
+        dbp:Role   "1792.33" ;
+        foaf:name  "VIGIA" .
+
+eg:FUNC238777  a   foaf:Person ;
+        dbp:Role   "1054.53" ;
+        foaf:name  "SOLDADO ALUNO" .
+
+eg:FUNC219558  a   foaf:Person ;
+        dbp:Role   "5220.83" ;
+        foaf:name  "AGENTE DE POLICIA" .
+
+eg:FUNC228449  a   foaf:Person ;
+        dbp:Role   "4893.69" ;
+        foaf:name  "TERCEIRO SARGENTO" .
+
+eg:FUNC148665  a   foaf:Person ;
+        dbp:Role   "2761.84" ;
+        foaf:name  "PROFESSOR" .
+
+eg:FUNC215985  a   foaf:Person ;
+        dbp:Role   "1867.49" ;
+        foaf:name  "PROFESSOR" .

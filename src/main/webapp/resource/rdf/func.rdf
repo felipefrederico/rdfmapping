@@ -1,0 +1,58 @@
+<?xml version='1.0'?><rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:xsd="http://www.w3.org/TR/xmlschema11-2/#"
+    xmlns:eg="http://localhost:8080/rdfmapping/rdf/func#"
+    xmlns:foaf="http://xmlns.com/foaf/spec/"
+    xmlns:dbp="http://dbpedia.org/resource/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+<foaf:Person rdf:about="http://localhost:8080/rdfmapping/rdf/func#FUNC219558">
+<dbp:Salary>5220.83</dbp:Salary>
+<dbp:Role>AGENTE DE POLICIA</dbp:Role>
+<foaf:name>AARAO JOSE DA SILVA</foaf:name>
+</foaf:Person>
+<foaf:Person rdf:about="http://localhost:8080/rdfmapping/rdf/func#FUNC238777">
+<dbp:Salary>1054.53</dbp:Salary>
+<dbp:Role>SOLDADO ALUNO</dbp:Role>
+<foaf:name>ABDENEGO PINHEIRO DA SILVA</foaf:name>
+</foaf:Person>
+<foaf:Person rdf:about="http://localhost:8080/rdfmapping/rdf/func#FUNC148665">
+<dbp:Salary>2761.84</dbp:Salary>
+<dbp:Role>PROFESSOR</dbp:Role>
+<foaf:name>ABEDIAS PEREIRA SANTOS</foaf:name>
+</foaf:Person>
+<foaf:Person rdf:about="http://localhost:8080/rdfmapping/rdf/func#FUNC215985">
+<dbp:Salary>1867.49</dbp:Salary>
+<dbp:Role>PROFESSOR</dbp:Role>
+<foaf:name>ABDIAS LUCIO DA SILVA</foaf:name>
+</foaf:Person>
+<foaf:Person rdf:about="http://localhost:8080/rdfmapping/rdf/func#FUNC226857">
+<dbp:Salary>3554.37</dbp:Salary>
+<dbp:Role>CABO</dbp:Role>
+<foaf:name>ABDI FERREIRA FELIX</foaf:name>
+</foaf:Person>
+<foaf:Person rdf:about="http://localhost:8080/rdfmapping/rdf/func#FUNC228449">
+<dbp:Salary>4893.69</dbp:Salary>
+<dbp:Role>TERCEIRO SARGENTO</dbp:Role>
+<foaf:name>ABDIAS BENTO DA SILVA</foaf:name>
+</foaf:Person>
+<foaf:Person rdf:about="http://localhost:8080/rdfmapping/rdf/func#FUNC238254">
+<dbp:Salary>3604.27</dbp:Salary>
+<dbp:Role>CABO</dbp:Role>
+<foaf:name>ABD NEGO OLIVEIRA DA SILVA</foaf:name>
+</foaf:Person>
+<foaf:Person rdf:about="http://localhost:8080/rdfmapping/rdf/func#FUNC224695">
+<dbp:Salary>841.96</dbp:Salary>
+<dbp:Role>ATENDENTE DE ENFERMAGEM</dbp:Role>
+<foaf:name>ABDENIO SANTOS RUFINO</foaf:name>
+</foaf:Person>
+<foaf:Person rdf:about="http://localhost:8080/rdfmapping/rdf/func#FUNC227461">
+<dbp:Salary>4171.76</dbp:Salary>
+<dbp:Role>CABO</dbp:Role>
+<foaf:name>ABDIEL BEZERRA DE MOURA</foaf:name>
+</foaf:Person>
+<foaf:Person rdf:about="http://localhost:8080/rdfmapping/rdf/func#FUNC214483">
+<dbp:Salary>1792.33</dbp:Salary>
+<dbp:Role>VIGIA</dbp:Role>
+<foaf:name>ABDUCHE CAVALCANTE DOS SANTOS</foaf:name>
+</foaf:Person>
+</rdf:RDF>

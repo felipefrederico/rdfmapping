@@ -1,0 +1,56 @@
+@prefix eg:    <http://localhost:8080/rdfmapping/rdf/func#> .
+@prefix dbp:   <http://dbpedia.org/resource/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd:   <http://www.w3.org/TR/xmlschema11-2/#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:  <http://xmlns.com/foaf/spec/> .
+
+eg:FUNC238254  a    foaf:Person ;
+        dbp:Role    "CABO" ;
+        dbp:Salary  "3604.27" ;
+        foaf:name   "ABD NEGO OLIVEIRA DA SILVA" .
+
+eg:FUNC226857  a    foaf:Person ;
+        dbp:Role    "CABO" ;
+        dbp:Salary  "3554.37" ;
+        foaf:name   "ABDI FERREIRA FELIX" .
+
+eg:FUNC224695  a    foaf:Person ;
+        dbp:Role    "ATENDENTE DE ENFERMAGEM" ;
+        dbp:Salary  "841.96" ;
+        foaf:name   "ABDENIO SANTOS RUFINO" .
+
+eg:FUNC227461  a    foaf:Person ;
+        dbp:Role    "CABO" ;
+        dbp:Salary  "4171.76" ;
+        foaf:name   "ABDIEL BEZERRA DE MOURA" .
+
+eg:FUNC238777  a    foaf:Person ;
+        dbp:Role    "SOLDADO ALUNO" ;
+        dbp:Salary  "1054.53" ;
+        foaf:name   "ABDENEGO PINHEIRO DA SILVA" .
+
+eg:FUNC214483  a    foaf:Person ;
+        dbp:Role    "VIGIA" ;
+        dbp:Salary  "1792.33" ;
+        foaf:name   "ABDUCHE CAVALCANTE DOS SANTOS" .
+
+eg:FUNC219558  a    foaf:Person ;
+        dbp:Role    "AGENTE DE POLICIA" ;
+        dbp:Salary  "5220.83" ;
+        foaf:name   "AARAO JOSE DA SILVA" .
+
+eg:FUNC228449  a    foaf:Person ;
+        dbp:Role    "TERCEIRO SARGENTO" ;
+        dbp:Salary  "4893.69" ;
+        foaf:name   "ABDIAS BENTO DA SILVA" .
+
+eg:FUNC148665  a    foaf:Person ;
+        dbp:Role    "PROFESSOR" ;
+        dbp:Salary  "2761.84" ;
+        foaf:name   "ABEDIAS PEREIRA SANTOS" .
+
+eg:FUNC215985  a    foaf:Person ;
+        dbp:Role    "PROFESSOR" ;
+        dbp:Salary  "1867.49" ;
+        foaf:name   "ABDIAS LUCIO DA SILVA" .
